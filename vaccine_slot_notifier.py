@@ -1,5 +1,3 @@
-from decouple import config
-import tweepy
 import time
 import requests
 from datetime import datetime, timedelta
